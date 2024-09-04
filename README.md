@@ -1,6 +1,6 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: column;">
       <p>
       Discord -> 0x8u
    <br/>
