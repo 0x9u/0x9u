@@ -1,11 +1,12 @@
 
-
-![Bruh](https://media.tenor.com/Fhg7SnBUCcEAAAAi/cat-dance.gif)
 <div style="display: flex; justify-content: space-between; align-items: center;">
-<div>
+<div style="display: flex; flex-direction: row;">
+      <p>
       Discord -> 0x8u
    <br/>
    DM for any inquiries or if u just want to be friends
+            </p>
+      <img height="60em" src="https://media.tenor.com/Fhg7SnBUCcEAAAAi/cat-dance.gif"/>
 </div>
 <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0x9u&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
