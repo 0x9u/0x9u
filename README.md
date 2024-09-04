@@ -1,8 +1,14 @@
-Discord -> 0x8u
-DM for any inquiries or if u just want to be friends
+
 
 ![Bruh](https://media.tenor.com/Fhg7SnBUCcEAAAAi/cat-dance.gif)
-<div align="center">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+<div>
+      Discord -> 0x8u
+   <br/>
+   DM for any inquiries or if u just want to be friends
+</div>
+<div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0x9u&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x9u&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 </div>
