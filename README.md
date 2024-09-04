@@ -3,4 +3,4 @@ DM for any inquiries or if u just want to be friends
 
 ![Bruh](https://media.tenor.com/Fhg7SnBUCcEAAAAi/cat-dance.gif)
 
-<p align="center">[![stats](https://github-readme-stats.vercel.app/api?username=0x9u&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)</p>
+<div align="center">[![stats](https://github-readme-stats.vercel.app/api?username=0x9u&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)</div>
